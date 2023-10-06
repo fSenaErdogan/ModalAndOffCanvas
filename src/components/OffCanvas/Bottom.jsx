@@ -6,7 +6,7 @@ const OffCanvasBottom = ({
     setOpen,
     children,
     title,
-    headerColor = "bg-gray-100"
+    headerColor = "bg-gray-200"
 }) => {
 
 
