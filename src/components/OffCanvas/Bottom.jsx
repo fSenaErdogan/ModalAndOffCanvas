@@ -6,7 +6,8 @@ const OffCanvasBottom = ({
     setOpen,
     children,
     title,
-    headerColor = "bg-gray-200"
+    headerColor = "bg-gray-200",
+    shadowColor="bg-black/50"
 }) => {
 
 
@@ -16,7 +17,7 @@ const OffCanvasBottom = ({
                 style={{
                     transition: "opacity .5s ease-in"
                 }}
-                className={`fixed top-0 left-0 bg-black/50 w-full h-screen opacity-${!open ? "0" : "50"} ${!open && "hidden"}`}
+                className={`fixed top-0 left-0  ${shadowColor} w-full h-screen opacity-${!open ? "0" : "50"} ${!open && "hidden"}`}
             ></div>
 
 
