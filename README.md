@@ -1,7 +1,6 @@
 # Modal and Off Canvas Project with React + Vite
 
-[Proje Demo Linki]([https://example.com](https://modal-and-off-canvas-okhb.vercel.app/))
-
+[Proje Demo Linki]([https://example.com](https://modal-and-off-canvas-okhb.vercel.app/])
 # Kullanılan Teknolojiler
 - React
 - Tailwind CSS
