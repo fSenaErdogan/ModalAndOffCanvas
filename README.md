@@ -1,8 +1,15 @@
-# React + Vite
+# Modal and Off Canvas Project with React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Proje Demo Linki]([https://example.com](https://modal-and-off-canvas-okhb.vercel.app/))
 
-Currently, two official plugins are available:
+# Kullanılan Teknolojiler
+- React
+- Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Katkıda Bulunma
+Eğer bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları takip edebilirsiniz:
+
+- Bu depoyu fork edin.
+- Yeni özellikler eklemek veya hata düzeltmeleri yapmak için bir dal (branch) oluşturun.
+- Yaptığınız değişiklikleri bu dalda yapın.
+- Değişikliklerinizi commit edin ve bir pull request oluşturun.
